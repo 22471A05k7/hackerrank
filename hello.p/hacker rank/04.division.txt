@@ -1,0 +1,18 @@
+04.if __name__ == '__main__':
+    a = int(input())
+    b = int(input())
+    print(a//b)
+    print(a/b)
+output
+nput (stdin)
+4
+3
+Expected Output
+1
+1.33333333333
+NEED HELP?
+View tutorial
+View discussions
+View editorial
+View top submissions
+BlogScoringEnvironment
